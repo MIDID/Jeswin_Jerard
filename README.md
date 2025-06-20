@@ -1,27 +1,27 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello there! I'm Midid
 
-<div align="center">
-  
-  ![Scroll Down](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlhYjU4b3d6Z3BmZzN5ZzV0Z2VzZ2F4eGJ6dGZwdjJ6dW5jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+![AI Character Animation](https://github.com/your-username/your-repo-name/blob/main/ai-character.gif)
 
-  *"Scroll down to discover my journey..."* ✨
-  
-</div>
+🎓 I'm an MCA student at Kristu Jayanti College, Bangalore  
+🔬 I hold a B.Sc. in Physics from St. Thomas College  
+💻 Passionate about software development, AI, and building cool tech  
+🌱 Currently exploring full-stack development & AI integration  
+🛠️ Languages & Tools: Java, Python, MongoDB, Flask, HTML/CSS  
 
 ---
 
-## 🚀 My Story
+## 🔭 Projects I'm Working On:
+- Employee Management System (Java + MongoDB)
+- WhatsApp Chatbot for Expense Tracking
+- College Project Sharing Portal (Flask-based)
 
-<table>
-<tr>
-<td width="60%">
+---
 
-### <span style="color:#5865F2">▎</span> Early Beginnings  
-📌 Born and raised in [Your Hometown]  
-📌 First computer at age [X]  
-📌 Fell in love with coding when...
+## 🤖 My Vision:
+To build intelligent, human-like systems that not only function — but also feel alive ✨
 
-</td>
-<td width="40%">
+---
 
-![Typewriter](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlhYjU4b3d6Z3BmZzN5ZzV0Z2VzZ2F4eGJ6dGZwdjJ6dW5jYyZlcD12MV9pbnRlcm5hbF
+📫 **Let's Connect**  
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | [Portfolio](https://yourwebsite.com)
+
