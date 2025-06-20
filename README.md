@@ -1,52 +1,27 @@
-# 🚀 Employee Management Portal  
+# 👋 Hello, I'm [Your Name]
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4M3J0d3V0bWZ5c2N5YzV0Z2VzZ2F4eGJ6dGZwdjJ6dW5jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="200" alt="AI Assistant">
   
-  **✨ Manage your workforce efficiently with MongoDB!**  
-  *"Hi! I'm your AI guide. Let me help you navigate this project!"* 🤖💡  
+  ![Scroll Down](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlhYjU4b3d6Z3BmZzN5ZzV0Z2VzZ2F4eGJ6dGZwdjJ6dW5jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+
+  *"Scroll down to discover my journey..."* ✨
+  
 </div>
 
 ---
 
-## 📌 **Features**  
+## 🚀 My Story
 
-✅ **Full CRUD Operations**  
-- Add, View, Update, and Delete employees seamlessly.  
-- Search employees by email.  
+<table>
+<tr>
+<td width="60%">
 
-✅ **Interactive CLI Menu**  
-- User-friendly console interface.  
+### <span style="color:#5865F2">▎</span> Early Beginnings  
+📌 Born and raised in [Your Hometown]  
+📌 First computer at age [X]  
+📌 Fell in love with coding when...
 
-✅ **MongoDB Backend**  
-- Persistent storage with MongoDB.  
+</td>
+<td width="40%">
 
-✅ **Modern Java Architecture**  
-- Layered design (DAO, Service, Model).  
-
----
-
-## 🛠️ **Tech Stack**  
-
-| **Category**       | **Technology**          |
-|--------------------|-------------------------|
-| **Backend**        | Java 11                 |
-| **Database**       | MongoDB                 |
-| **Build Tool**     | Maven                   |
-| **CLI**           | Interactive Console     |
-
----
-
-## 🎮 **Quick Start**  
-
-### **Prerequisites**  
-- Java 11+  
-- MongoDB (local or remote)  
-- Maven  
-
-### **Run the Project**  
-```bash
-git clone https://github.com/yourusername/employee-management-portal.git
-cd employee-management-portal
-mvn compile
-mvn exec:java -Dexec.mainClass="com.portal.Main"
+![Typewriter](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlhYjU4b3d6Z3BmZzN5ZzV0Z2VzZ2F4eGJ6dGZwdjJ6dW5jYyZlcD12MV9pbnRlcm5hbF
